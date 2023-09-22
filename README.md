@@ -13,7 +13,7 @@ The system leverages advanced machine learning algorithms to analyze video foota
 Real-time assault detection in CCTV surveillance videos Integration with computer vision technologies Automated alert system to notify nearby authorities Phone call alerts using Twilio Email alerts using Gmail's SMTP protocol Customizable alert thresholds and notification settings
 
 #Dataset
-Omniscient.ai utilizes the UCF Crime Dataset available on Kaggle. This dataset contains a diverse collection of videos capturing various criminal activities, including assaults. The dataset serves as the foundation for training the machine learning models incorporated in Omniscient.ai, enabling accurate assault detection.
+Omniscient.ai utilizes the UCF Crime Dataset available on Kaggle. This dataset contains a diverse collection of videos capturing various criminal activities, including assaults. The dataset serves as the foundation for training the machine learning models incorporated in Omniscient.ai, enabling accurate assault detection  .
 
 Please make sure to comply with the dataset's licensing and usage terms when working with the UCF Crime Dataset.
 
